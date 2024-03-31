@@ -11,5 +11,5 @@ API is pretty standart for graphic rendering.
 # Pros
 It is really simple and I tried to make it well-commented, so you can modify code and not get stuck with thinking how's everything done. It can handle pretty much of sprites on a screen and still is pretty fast
 
-# cons
+# Cons
 It is really simple so it has no error exceptions or fancy stuff. Also, I made while I was sick, so maybe code is suboptimal :)
